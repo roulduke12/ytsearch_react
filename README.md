@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## This REDAME has issues.
+* Please add a proper description why this repo exits and what it does.
+* `npm install` not mentioned.
+* `npm test` results in no tests written.
+* Copy&paste of infos that are not required does not help.
+
 ## Available Scripts
 
 In the project directory, you can run:
