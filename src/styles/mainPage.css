@@ -1,0 +1,33 @@
+body {
+  background-image: url(../media/backgroundMain.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  overflow: scroll;
+  background-position: center;
+  font-family: 'Quicksand', sans-serif;
+  height: 100vh;
+  max-width: 100%;
+}
+
+
+.videoDetail {
+  box-shadow: 4px 4px 0px 0px rgba(0,0,0,0.75);
+  max-height: 120vh;
+}
+
+#VidListe {
+  max-height: 100vh;
+  overflow: scroll;
+  background-color: transparent;
+  margin-left: 5%;
+}
+
+#suchErgebnisse {
+  font-size: 1.2rem;
+}
+
+#anzahlVid {
+  font-weight: bold;
+  font-size: 1.4rem;
+
+}

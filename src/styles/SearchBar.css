@@ -1,0 +1,61 @@
+#searchField:focus {
+  background-color: white;
+  color: darkblue;
+  opacity: 0.8;
+  font-weight: bold;
+  border: solid black 1.5px;
+  transform: scale(1.05);
+}
+
+::placeholder {
+  font-family: 'Quicksand', sans-serif;
+  color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+#searchField {
+  background-color: transparent;
+  border-style: groove;
+  border-width: 3px;
+}
+
+.SuchBtn {
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  border-radius: 50px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+
+.SuchBtn:hover {
+  background-color: rgb(30, 77, 153);
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+
+}
+
+#SucheHead {
+  width: 100%;
+  text-align: center;
+
+  margin-top: 5%;
+  color: white;
+  margin-bottom: 2%;
+
+
+}
+
+#SucheHead h4 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.SuchBtn:active {
+  transform: scale(0.8);
+}

@@ -1,0 +1,17 @@
+#vidImg {
+  display: inline-flex;
+}
+
+
+.item:hover {
+  background: linear-gradient(to right, rgba(30,87,153,0) 0%,rgba(214,214,214,0) 5%,rgb(214,214,214,0) 55%,rgb(29,29,244) 100%);
+  color: white;
+}
+
+.content {
+  max-width: 90%;
+}
+
+.video-item {
+  margin: 10% 5%;
+}
